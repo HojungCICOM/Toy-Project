@@ -1,24 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DESKTOP-08\\Desktop\\ToyProject\\ToyProject\\AspDotNetCoreVueJs\\AspDotNetCoreVueJs.csproj": {}
+    "C:\\Users\\Hojung Kwak\\Desktop\\Jenkins\\Toy-Project\\ToyProject\\AspDotNetCoreVueJs\\AspDotNetCoreVueJs.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DESKTOP-08\\Desktop\\ToyProject\\ToyProject\\AspDotNetCoreVueJs\\AspDotNetCoreVueJs.csproj": {
+    "C:\\Users\\Hojung Kwak\\Desktop\\Jenkins\\Toy-Project\\ToyProject\\AspDotNetCoreVueJs\\AspDotNetCoreVueJs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DESKTOP-08\\Desktop\\ToyProject\\ToyProject\\AspDotNetCoreVueJs\\AspDotNetCoreVueJs.csproj",
+        "projectUniqueName": "C:\\Users\\Hojung Kwak\\Desktop\\Jenkins\\Toy-Project\\ToyProject\\AspDotNetCoreVueJs\\AspDotNetCoreVueJs.csproj",
         "projectName": "AspDotNetCoreVueJs",
-        "projectPath": "C:\\Users\\DESKTOP-08\\Desktop\\ToyProject\\ToyProject\\AspDotNetCoreVueJs\\AspDotNetCoreVueJs.csproj",
-        "packagesPath": "C:\\Users\\DESKTOP-08\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DESKTOP-08\\Desktop\\ToyProject\\ToyProject\\AspDotNetCoreVueJs\\obj\\",
+        "projectPath": "C:\\Users\\Hojung Kwak\\Desktop\\Jenkins\\Toy-Project\\ToyProject\\AspDotNetCoreVueJs\\AspDotNetCoreVueJs.csproj",
+        "packagesPath": "C:\\Users\\Hojung Kwak\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Hojung Kwak\\Desktop\\Jenkins\\Toy-Project\\ToyProject\\AspDotNetCoreVueJs\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\DESKTOP-08\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Hojung Kwak\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"
@@ -73,7 +75,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
         }
       }
     }
